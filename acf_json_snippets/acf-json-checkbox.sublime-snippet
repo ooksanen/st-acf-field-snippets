@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "checkbox",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "${4:key}": "${5:Value}"
+            },
+            "default_value": [],
+            "return_format": "value",
+            "allow_custom": 0,
+            "layout": "vertical",
+            "toggle": 0,
+            "save_custom": 0
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_checkbox</tabTrigger> -->
+    <!-- <description>ACF JSON Checkbox Field</description> -->
+</snippet>

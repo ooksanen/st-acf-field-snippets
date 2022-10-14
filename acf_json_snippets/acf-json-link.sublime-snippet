@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "link",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array"
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_link</tabTrigger> -->
+    <!-- <description>ACF JSON Link Field</description> -->
+</snippet>

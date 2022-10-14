@@ -1,0 +1,30 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": "",
+            "preview_size": "medium"
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_image</tabTrigger> -->
+    <!-- <description>ACF JSON Image Field</description> -->
+</snippet>

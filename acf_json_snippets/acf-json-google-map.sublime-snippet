@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "google_map",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "center_lat": "",
+            "center_lng": "",
+            "zoom": "",
+            "height": ""
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_google_map</tabTrigger> -->
+    <!-- <description>ACF JSON Google Map Field</description> -->
+</snippet>

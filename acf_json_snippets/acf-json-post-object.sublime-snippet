@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "post_object",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": "",
+            "taxonomy": "",
+            "return_format": "object",
+            "multiple": 0,
+            "allow_null": 0,
+            "ui": 1
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_post_object</tabTrigger> -->
+    <!-- <description>ACF JSON Post Object Field</description> -->
+</snippet>

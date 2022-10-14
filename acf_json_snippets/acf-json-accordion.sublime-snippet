@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "accordion",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "open": 0,
+            "multi_expand": 0,
+            "endpoint": 0
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_accordion</tabTrigger> -->
+    <!-- <description>ACF JSON Accordion Field</description> -->
+</snippet>

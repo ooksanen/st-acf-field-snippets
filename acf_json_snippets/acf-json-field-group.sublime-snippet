@@ -1,0 +1,32 @@
+<snippet>
+	<content><![CDATA[
+{
+    "key": "group_${1}",
+    "title": "${2}",
+    "fields": [
+    	${3}
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 0
+}
+]]></content>
+	<!-- <tabTrigger>acf_json_group</tabTrigger> -->
+    <!-- <description>ACF JSON Field Group</description> -->
+</snippet>

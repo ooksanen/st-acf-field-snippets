@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "time_picker",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "display_format": "g:i a",
+            "return_format": "g:i a"
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_time_picker</tabTrigger> -->
+    <!-- <description>ACF JSON Time Picker Field</description> -->
+</snippet>

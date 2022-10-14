@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "${4:key}": "${5:Value}"
+            },
+            "default_value": "",
+            "return_format": "value",
+            "allow_null": 0,
+            "layout": "horizontal"
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_button_group</tabTrigger> -->
+    <!-- <description>ACF JSON Button Group Field</description> -->
+</snippet>

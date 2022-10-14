@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "email",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        }
+]]></content>
+    <!-- <tabTrigger>acf_json_email</tabTrigger> -->
+    <!-- <description>ACF JSON Email Field</description> -->
+</snippet>

@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "user",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "role": "",
+            "return_format": "array",
+            "multiple": 0,
+            "allow_null": 0
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_user</tabTrigger> -->
+    <!-- <description>ACF JSON User Field</description> -->
+</snippet>

@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": []
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_group</tabTrigger> -->
+    <!-- <description>ACF JSON Group Field</description> -->
+</snippet>

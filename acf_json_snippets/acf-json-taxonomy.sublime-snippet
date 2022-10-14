@@ -1,0 +1,28 @@
+<snippet>
+    <content><![CDATA[
+        {
+            "key": "field_${1}",
+            "label": "${2}",
+            "name": "${3}",
+            "type": "taxonomy",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "taxonomy": "category",
+            "add_term": 1,
+            "save_terms": 0,
+            "load_terms": 0,
+            "return_format": "id",
+            "field_type": "checkbox",
+            "allow_null": 0,
+            "multiple": 0
+        }
+    ]]></content>
+    <!-- <tabTrigger>acf_json_taxonomy</tabTrigger> -->
+    <!-- <description>ACF JSON Taxonomy Field</description> -->
+</snippet>
